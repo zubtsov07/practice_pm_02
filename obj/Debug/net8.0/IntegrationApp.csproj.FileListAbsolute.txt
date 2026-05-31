@@ -1,0 +1,14 @@
+C:\PracticeNew\IntegrationApp\bin\Debug\net8.0\IntegrationApp.exe
+C:\PracticeNew\IntegrationApp\bin\Debug\net8.0\IntegrationApp.deps.json
+C:\PracticeNew\IntegrationApp\bin\Debug\net8.0\IntegrationApp.runtimeconfig.json
+C:\PracticeNew\IntegrationApp\bin\Debug\net8.0\IntegrationApp.dll
+C:\PracticeNew\IntegrationApp\bin\Debug\net8.0\IntegrationApp.pdb
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.AssemblyInfoInputs.cache
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.AssemblyInfo.cs
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.csproj.CoreCompileInputs.cache
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.dll
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\refint\IntegrationApp.dll
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.pdb
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\IntegrationApp.genruntimeconfig.cache
+C:\PracticeNew\IntegrationApp\obj\Debug\net8.0\ref\IntegrationApp.dll
